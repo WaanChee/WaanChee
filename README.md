@@ -10,7 +10,7 @@ I'm actively seeking full-stack developer opportunities where I can contribute t
 - **Frontend:** React, JavaScript, HTML, CSS
 - **Backend:** Node.js, Express.js
 - **Database:** PostgreSQL, Firebase
-- **Tools:** Git, Vercel, Neon, Replit
+- **Tools:** Github, Vercel, Neon, Replit
 
 ## How to reach me?
 - 💼 LinkedIn: https://www.linkedin.com/in/chan-waan-chee-92b8872a4/
