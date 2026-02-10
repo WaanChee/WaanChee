@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋 I'm Chan Waan Chee
 
-<!--
-**WaanChee/WaanChee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
+Fresh graduate with a BSc (Hons) in Information Technology, specializing in IoT. I recently completed a 12-week full-stack development bootcamp at Sigma School, where I built 25 projects and developed a passion for creating web applications.
 
-Here are some ideas to get you started:
+## What am I currently working on?
+I'm actively seeking full-stack developer opportunities where I can contribute to building meaningful applications and continue learning. Currently refining my projects and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What tools do I use?
+- **Frontend:** React, JavaScript, HTML, CSS
+- **Backend:** Node.js, Express.js
+- **Database:** PostgreSQL, Firebase
+- **Tools:** Git, Vercel, Neon, Replit
+
+## How to reach me?
+- 💼 LinkedIn: https://www.linkedin.com/in/chan-waan-chee-92b8872a4/
+- 🌐 Location: Petaling Jaya, Malaysia
+
+---
+
+### 📌 Featured Projects
+Check out my pinned repositories below to see what I've been building!
