@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Chan Waan Chee
 
 ## Who am I?
-Fresh graduate with a BSc (Hons) in Information Technology, specializing in IoT. I recently completed a 12-week full-stack development bootcamp at Sigma School, where I built 25 projects and developed a passion for creating web applications.
+Fresh graduate with a BSc (Hons) in Information Technology, specializing in IoT. I recently completed a 12-week full-stack development bootcamp at Sigma School, where I built a few projects.
 
 ## What am I currently working on?
 I'm actively seeking full-stack developer opportunities where I can contribute to building meaningful applications and continue learning. Currently refining my projects and exploring new technologies.
